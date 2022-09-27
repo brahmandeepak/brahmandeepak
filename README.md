@@ -59,9 +59,10 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brahmandeepak&theme=dark&background=000000)](https://git.io/streak-stats)
+ ![Snake animation](https://github.com/brahmandeepak/brahmandeepak/blob/output/github-contribution-grid-snake.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brahmandeepak&layout=compact&theme=vision-friendly-dark)](https://github.com/brahmandeepak/github-readme-stats)
- ![Snake animation](https://github.com/brahmandeepak/brahmandeepak/blob/output/github-contribution-grid-snake.gif)
+
 
 ---
 
