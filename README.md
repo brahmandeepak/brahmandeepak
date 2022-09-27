@@ -21,8 +21,7 @@
 - 👨‍💻 This is [My Portfolio]((https://brahmandeepak.github.io/))
 -  📄 This is [My Resume]((https://drive.google.com/file/d/1vPvfQzrT2RCMJdfygMiWRv-q9J3Fnnaz/view?usp=sharing))
 - 📫 How to reach me: ...*(me4ubrahman@gmail.com)*
-- :mailbox:How to reach me: [![Linkedin Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnm.edu%2Fdepts%2Fmco%2Fmarketing%2Fimages%2Flinkedin-logo.png%2Fview&psig=AOvVaw1lunXdDLeAj40g3V8CXgFl&ust=1664390595952000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOio5KjQtfoCFQAAAAAdAAAAABAI))](www.linkedin.com/in/deepak-sharma-001253244)
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-deepak-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
