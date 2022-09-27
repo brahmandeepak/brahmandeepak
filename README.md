@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+(Deepak)+(Sharma)!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Deepak+Sharma!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -60,6 +60,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brahmandeepak&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brahmandeepak&layout=compact&theme=vision-friendly-dark)](https://github.com/brahmandeepak/github-readme-stats)
+
+---
+
+### :writing_hand: My Stuff :
+
+
 
 <script>
     // write your username at dineshjangid03 for your calander
