@@ -34,7 +34,7 @@
     
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=(brahmandeepak)&show_icons=true&locale=en&theme=dark" alt="(brahmandeepak)"  height="139" />
     
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=(brahmandeepak)&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="dineshjangid03" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=(brahmandeepak)&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="brahmandeepak" height="139" />
 
 </p>
 
