@@ -35,8 +35,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-                                                       
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
