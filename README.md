@@ -22,7 +22,6 @@
 - 📄 This is [My Resume]((https://drive.google.com/file/d/1vPvfQzrT2RCMJdfygMiWRv-q9J3Fnnaz/view?usp=sharing))
 - 📫 How to reach me: ...*(me4ubrahman@gmail.com)*
 
-- 
 <div id="badges">
   <a href="www.linkedin.com/in/deepak-sharma-001253244">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -58,8 +57,11 @@
 ![Snake animation](https://github.com/brahmandeepak/brahmandeepak/blob/output/github-contribution-grid-snake.gif)
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brahmandeepak&layout=compact&theme=vision-friendly-dark)](https://github.com/brahmandeepak/github-readme-stats)
+<div>
+  <a href="https://github.com/brahmandeepak">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahmandeepak&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brahmandeepak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
 ---
 <!-- 
