@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -19,6 +17,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+(Deepak)+(Sharma)!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <h1 align="center"> 😇(Hello everyone) 👋</h1>
 
