@@ -22,16 +22,13 @@
 - 🌱 I’m currently learning at *Masai School*
 - 💬 Ask me about *Java*
 - 👨‍💻 This is [My Portfolio]((https://brahmandeepak.github.io/))
--  📄 This is [My Resume]((https://drive.google.com/file/d/1vPvfQzrT2RCMJdfygMiWRv-q9J3Fnnaz/view?usp=sharing))
+- 📄 This is [My Resume]((https://drive.google.com/file/d/1vPvfQzrT2RCMJdfygMiWRv-q9J3Fnnaz/view?usp=sharing))
 - 📫 How to reach me: ...*(me4ubrahman@gmail.com)*
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepak Sharma-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/deepak-sharma-001253244)
+
 - 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/deepak-sharma-001253244">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
