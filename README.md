@@ -45,7 +45,7 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=brahmandeepak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brahmandeepak&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <script>
     // write your username at dineshjangid03 for your calander
