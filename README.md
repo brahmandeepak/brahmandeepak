@@ -18,13 +18,13 @@
 - 🔭 I’m currently working on *MySkill😄*
 - 🌱 I’m currently learning at *Masai School*
 - 💬 Ask me about *Java*
-- 👨‍💻 This is [My Portfolio]((https://brahmandeepak.github.io/))
-- 📄 This is [My Resume]((https://drive.google.com/file/d/1vPvfQzrT2RCMJdfygMiWRv-q9J3Fnnaz/view?usp=sharing))
+- 👨‍💻 This is [My Portfolio](https://brahmandeepak.github.io/)
+- 📄 This is [My Resume](https://drive.google.com/file/d/1vPvfQzrT2RCMJdfygMiWRv-q9J3Fnnaz/view?usp=sharing)
 - 📫 How to reach me: ...*(me4ubrahman@gmail.com)*
 
 <div id="badges">
   <a href="www.linkedin.com/in/deepak-sharma-001253244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="[https://twitter.com/ericagrundy](https://brahmandeepak.github.io/)" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  
   <a href="https://instagram.com/me_born.confuse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: me4ubrahman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
