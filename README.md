@@ -80,11 +80,11 @@
 
 
 <p>
-    <a href="https://github.com/m-sehrawat/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/visheshguria/-psychedelic-art-4007">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brahmandeepak&repo=Netmeds-clone&locale=en&border_radius=0&theme=dark" alt="brahmandeepak" />
     </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+    <a href="https://github.com/brahmandeepak/7supremacy-masaie">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brahmandeepak&repo=Banggood-clone&locale=en&border_radius=0&theme=dark" alt="brahmandeepak" />
     </a>
     <a href="https://github.com/m-sehrawat/Weather-App">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
