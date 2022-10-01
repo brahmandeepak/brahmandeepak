@@ -19,6 +19,9 @@
 <h1 align="center"> 😇 Hello everyone 👋</h1>
 
 <h3 align="center">Focused Computer Science Graduate</h3>
+<h3 align="center">
+    <i> I'm a Full Stack Web Developer who focuses on writing clean, elegant and efficient code.</i>
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
