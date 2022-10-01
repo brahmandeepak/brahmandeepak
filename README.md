@@ -81,7 +81,7 @@
 
 <p>
     <a href="https://github.com/visheshguria/-psychedelic-art-4007">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brahmandeepak&repo=Netmeds-clone&locale=en&border_radius=0&theme=dark" alt="brahmandeepak" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=visheshguria&repo=Netmeds-clone&locale=en&border_radius=0&theme=dark" alt="visheshguria" />
     </a>
     <a href="https://github.com/brahmandeepak/7supremacy-masaie">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brahmandeepak&repo=Banggood-clone&locale=en&border_radius=0&theme=dark" alt="brahmandeepak" />
