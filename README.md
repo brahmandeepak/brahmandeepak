@@ -8,7 +8,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=20&amp;lines=Hey!+It's+Deepak+Sharma!;Full+Stack+Web+Developer...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=20&amp;lines=Hey!+It's+Deepak+Sharma!;Back+-+end+Developer...👨🏻‍💻;" style="width: 100%;">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -20,7 +20,7 @@
 
 <h3 align="center">Focused Computer Science Graduate</h3>
 <h3 align="center">
-    <i> I'm a Full Stack Web Developer who focuses on writing clean, elegant and efficient code.</i>
+    <i> I'm a Back-end Developer who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
