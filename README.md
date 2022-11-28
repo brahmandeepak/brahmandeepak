@@ -8,7 +8,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=20&amp;lines=Hey!+It's+Deepak+Sharma!;Back+-+end+Developer...👨🏻‍💻;" style="width: 100%;">
+<img src ="https://github.com/brahmandeepak/brahmandeepak/blob/main/Hey!%20i'm%20Deepak%20Sharma.png" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
