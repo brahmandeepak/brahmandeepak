@@ -86,38 +86,11 @@
   
 ---
   
-<!--   <h2><i>Top Repositories</i></h2>
+  <h2><i>Top Repositories</i></h2>
 
-
-<p>
-    <a href="https://github.com/visheshguria/-psychedelic-art-4007">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=visheshguria&repo=Netmeds-clone&locale=en&border_radius=0&theme=dark" alt="visheshguria" />
-    </a>
-    <a href="https://github.com/brahmandeepak/7supremacy-masaie">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brahmandeepak&repo=Banggood-clone&locale=en&border_radius=0&theme=dark" alt="brahmandeepak" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Weather-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Translation-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-     <a href="https://github.com/m-sehrawat/Facebook-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Food-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    
-</p>
- -->
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Komalkopnar622&repo=sable-club-7536)](https://github.com/Komalkopnar622/sable-club-7536)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=visheshguria&repo=-psychedelic-art-4007)](https://github.com/visheshguria/-psychedelic-art-4007)
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
