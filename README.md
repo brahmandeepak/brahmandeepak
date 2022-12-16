@@ -70,6 +70,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brahmandeepak&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Snake animation](https://github.com/brahmandeepak/brahmandeepak/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/brahmandeepak/brahmandeepak/blob/output/github-contribution-grid-snake.svg)
 
 ---
 <div>
