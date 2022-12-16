@@ -17,7 +17,7 @@
 </div>
 
 <h1 align="center"> 😇 Hello everyone 👋</h1>
-<h3 align="center">I'm Deepak Sharma</h3>
+<h2 align="center">I'm Deepak Sharma</h2>
 
 <h3 align="center">
     <i> Motivated and well-organized Computer Science Graduate.
@@ -26,6 +26,7 @@ and I am highly interested in gaining knowledge about best
 practices and building quality software. </i>
     
 </h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
