@@ -20,7 +20,10 @@
 
 <h3 align="center">Focused Computer Science Graduate</h3>
 <h3 align="center">
-    <i> I'm a Back-end Developer who focuses on writing clean, elegant and efficient code.</i>
+    <i> Motivated and well-organized Computer Science Graduate.
+Passionate about web development with a focus on backend
+and I am highly interested in gaining knowledge about best
+practices and building quality software </i>
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
