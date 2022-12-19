@@ -95,7 +95,7 @@ practices and building quality software. </i>
   <h2><i>Top Repositories</i></h2>
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Komalkopnar622&repo=sable-club-7536&theme=dark&background=000000)](https://github.com/Komalkopnar622/sable-club-7536)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=visheshguria&repo=-psychedelic-art-4007)](https://github.com/visheshguria/-psychedelic-art-4007)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=visheshguria&repo=-psychedelic-art-4007&theme=dark&background=000000)](https://github.com/visheshguria/-psychedelic-art-4007)
 
 
 
